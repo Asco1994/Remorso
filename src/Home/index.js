@@ -66,7 +66,7 @@ const Home = ({ classes }) => {
       <h1 className={classes.title}>{ t('Home.AlbumName') }</h1>
       <blockquote className={classes.blockquote}>{ t('Home.BlockQuote') }</blockquote>
       <button onClick={downloadAlbum} className={classes.btn} >
-        <a className={classes.link} href='http://asco1994.github.io/Remorso.zip'>
+        <a className={classes.link} href='http://asco1994.github.io/Remorso/Remorso.zip'>
           { t('Home.ButtonDownload') }
         </a>
       </button>

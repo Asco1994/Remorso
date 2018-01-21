@@ -79,7 +79,15 @@ const style = {
 
   icon: {
     width: 40,
-    height: 40
+    height: 40,
+    transition: 'all .1s',
+
+    '&:hover': {
+      width: 50,
+      height: 50,
+      margin: [-5],
+      transform: 'rotate(-20deg)'
+    }
   },
 
   corpright: {
@@ -144,6 +152,7 @@ const style = {
     icon: {
       width: 40,
       height: 40
+
     },
   }
 }

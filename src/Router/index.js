@@ -13,7 +13,7 @@ import Home from '../Home'
 
 
 const RouterComponent = ({ classes }) => (
-  <Router>
+  <Router basename='Remorso'>
     <div className='router'>
       <Header/>
       <Main>

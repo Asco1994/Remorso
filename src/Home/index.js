@@ -53,11 +53,6 @@ const style = {
   }
 }
 
-const downloadAlbum = (ev) => {
-  ev.preventDefault()
-
-
-}
 
 const Home = ({ classes }) => {
 
@@ -65,11 +60,11 @@ const Home = ({ classes }) => {
     <div className={classes.container}>
       <h1 className={classes.title}>{ t('Home.AlbumName') }</h1>
       <blockquote className={classes.blockquote}>{ t('Home.BlockQuote') }</blockquote>
-      <button onClick={downloadAlbum} className={classes.btn} >
-        <a className={classes.link} href='http://asco1994.github.io/Remorso/Remorso.zip'>
+      <a className={classes.link} href='https://github.com/Asco1994/Remorso/raw/master/public/Remorso.zip' download>
+        <button className={classes.btn} >
           { t('Home.ButtonDownload') }
-        </a>
-      </button>
+        </button>
+      </a>
     </div>
   )
 }

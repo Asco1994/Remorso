@@ -1,0 +1,28 @@
+{
+  "Header": {
+    "Menu": {
+      "Home": "Home",
+      "About": "Sobre",
+      "Musics": "Musicas",
+      "Contact": "Contato"
+    }
+  },
+  "Home": {
+    "AlbumName": "Remorso",
+    "BlockQuote": "Minhas músicas são sobre tudo que já se foi, sobre cada momento que não existe mais e por cada detalhe que insiste em salvar minha alma.",
+    "ButtonDownload": "Baixar agora"
+  },
+  "About": {
+    "Text": [
+      "Uma vez meu amigo  hollow sitou uma frase que carrego sempre comigo, 'nossa música é nosso diario'. É preciso ter muita coragem para expor nossa história no traje de uma canção.",
+      "Sou ciente do fato que minha música pode acabar influênciando a depreção e temo por isso, pois meu objetivo é o inverso! Quero mostrar que você não esta sozinho, que não é o único nesse abismo e que devemos continuar existindo..."
+    ]
+  },
+  "Contact": {
+    "InputName": "Digite seu nome",
+    "InputEmail": "Digite seu e-mail",
+    "InputMessage": "Digite sua mensagem",
+    "ButtonSubmit": "Enviar",
+    "Phone": "Fone para contato:"
+  }
+}

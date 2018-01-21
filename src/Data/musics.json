@@ -1,0 +1,59 @@
+{
+  "albumLink": "",
+  "musics": [
+    {
+      "id": "_ajvQYzmTWc",
+      "time": "1:28",
+      "title": "Jamais procure se conhecer",
+      "participations": {
+        "production": "h o ll o w",
+        "feat": "rick"
+      }
+    },
+    {
+      "id": "djifavnUBFY",
+      "time": "2:24",
+      "title": "Remorso",
+      "participations": {
+        "production": "oilcolor",
+        "feat": "rick"
+      }
+    },
+    {
+      "id": "oUCw9hV8zec",
+      "time": "2:03",
+      "title": "Angústia",
+      "participations": {
+        "production": "kuroime",
+        "feat": "rick"
+      }
+    },
+    {
+      "id": "yWDEv86Gmdo",
+      "time": "1:42",
+      "title": "Vesano",
+      "participations": {
+        "production": "oilcolor",
+        "feat": "rick"
+      }
+    },
+    {
+      "id": "QUcDaAgo-00",
+      "time": "2:44",
+      "title": "Irreversível",
+      "participations": {
+        "production": "oilcolor",
+        "feat": "rick"
+      }
+    },
+    {
+      "id": "lqLNrYrNSKw",
+      "time": "0:55",
+      "title": "Depressiva",
+      "participations": {
+        "production": "RODGER",
+        "feat": "rick"
+      }
+    }
+  ]
+}
